@@ -19,7 +19,7 @@ Make sure you have the following dependencies installed:
 - Python 3.x
 - NumPy
 - Pandas
-- Matplotlib
+- Plotly
 
 You can install the dependencies using the following command:
 
